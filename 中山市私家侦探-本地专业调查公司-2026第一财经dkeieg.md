@@ -1,4 +1,4 @@
-<h1>中山市私家侦探-私人侦探l婚外情l调查公司.</h1><br><p><strong><script>let n=new Date(),y=n.getFullYear(),m=(n.getMonth()+1+'').padStart(2,0),d=(n.getDate()+'').padStart(2,0),h=(n.getHours()+'').padStart(2,0),mi=(n.getMinutes()+'').padStart(2,0),s=(n.getSeconds()+'').padStart(2,0);document.write(`${y}年${m}月${d}日 ${h}时${mi}分${s}秒(UTC+8)`);</script></strong></p>
+<h1>中山市私家侦探-私人侦探l婚外情l调查公司.</h1><br><p><strong>2026年06月27日 18时15分13秒(UTC+8)</strong></p>
 <h1>中山市私家侦探咨询：【16682707368】
 ——专业的人做专业的事，本地专业调查公司更放心——
 <img src="https://i.postimg.cc/N0RzYMhq/526822528638.png" alt="咨询热线">
@@ -47,5 +47,5 @@ https://github.com/twrwvnwu/zhentan/blob/main/%E6%8A%9A%E5%B7%9E%E5%B8%82%E7%A7%
 https://github.com/twrwvnwu/zhentan/blob/main/%E6%8F%AD%E9%98%B3%E5%B8%82%E6%9C%AC%E5%9C%B0%E4%BE%A6%E6%8E%A2%E5%85%AC%E5%8F%B8%E6%80%8E%E4%B9%88%E6%89%BE.md
 https://github.com/twrwvnwu/zhentan/blob/main/%E6%96%B0%E4%B9%A1%E5%B8%82%E6%9C%AC%E5%9C%B0%E4%BE%A6%E6%8E%A2%E5%85%AC%E5%8F%B8%E4%B8%93%E4%B8%9A%E6%8D%89%E5%A5%B8%E6%89%BE%E5%B0%8F%E4%B8%89.md
 </p><br><hr><br>
-<p><em>报告生成时间: <script>let d=new Date(),y=d.getFullYear(),m=(d.getMonth()+1+'').padStart(2,'0'),da=(d.getDate()+'').padStart(2,'0'),h=(d.getHours()+'').padStart(2,'0'),mi=(d.getMinutes()+'').padStart(2,'0'),s=(d.getSeconds()+'').padStart(2,'0');document.write(`${y}年${m}月${da}日${h}时${mi}分${s}秒`);</script></em></p>
+<p><em>报告生成时间: 2026年06月27日 18时15分13秒(UTC+8)</em></p>
 <p><strong><em>数据来源：公开媒体 RSS</em></strong></p><br>
